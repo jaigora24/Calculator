@@ -1,7 +1,7 @@
 input[type="button"] 
          { 
          background-color:black; 
-         color: rgb(255,255,0);
+         color: yellow;
          border:black 2px; 
          width:100%;
          } 
