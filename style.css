@@ -1,24 +1,24 @@
 input[type="button"] 
          { 
-         background-color:cyan; 
-         color: black;
-         border: solid black 2px; 
+         background-color:black; 
+         color: rgb(255,255,0);
+         border:black 2px; 
          width:100%;
          } 
          input[type="text"] 
          { 
          background-color:white; 
-         border: solid black 2px; 
+         border:solid black 2px; 
          width:100%;
          }
 .Calculator{
-  width: 280px;
+  width: 180px;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 body{
-  background: url(https://img.youtube.com/vi/5-LyRjHlRgQ/maxresdefault.jpg) no-repeat;
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQihHcKz57XGK2hgrzCIBZhtgslOn-pQU8uhA&usqp=CAU) no-repeat ;
   background-size: cover;
 }
