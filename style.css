@@ -1,15 +1,16 @@
 input[type="button"] 
          { 
          background-color:black; 
-         color: yellow;
+         color: #03B1FD;
          border:black 2px; 
          width:100%;
+         cursor : pointer;
          } 
          input[type="text"] 
          { 
          background-color:white; 
          border:solid black 2px; 
-         width:100%;
+         width:95%;
          }
 .Calculator{
   width: 180px;
@@ -19,6 +20,6 @@ input[type="button"]
   transform: translate(-50%, -50%);
 }
 body{
-  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQihHcKz57XGK2hgrzCIBZhtgslOn-pQU8uhA&usqp=CAU) no-repeat ;
+  background: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-vector-school-bag-calculator-cyan-cartoon-banner-image_166801.jpg) no-repeat ;
   background-size: cover;
 }
