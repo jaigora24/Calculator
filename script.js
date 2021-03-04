@@ -1,10 +1,8 @@
-
-         function dis(val) 
+function dis(val) 
          { 
              document.getElementById("result").value+=val 
          }
-		
-	function solve() 
+		 function solve() 
          { 
              let x = document.getElementById("result").value 
              let y = eval(x) 
@@ -14,5 +12,3 @@
          { 
              document.getElementById("result").value = "" 
          } 
-      
-     
