@@ -10,9 +10,8 @@ function solve()
              let y = eval(x) 
              document.getElementById("result").value = y 
          }
-
+//function that clear the display
 function clr() 
          { 
              document.getElementById("result").value = "" 
          } 
-
